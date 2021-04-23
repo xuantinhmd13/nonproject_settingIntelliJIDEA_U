@@ -1,13 +1,9 @@
 <application>
   <component name="GeneralSettings">
+    <option name="confirmOpenNewProject2" value="0" />
+    <option name="defaultProjectDirectory" value="E:\CODE\IDE\IntelliJIDEA" />
+    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
-  </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="Memory" value="true" />
-      </map>
-    </option>
   </component>
   <component name="StatusBar">
     <option name="widgets">
